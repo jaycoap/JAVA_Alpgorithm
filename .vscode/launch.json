@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "printStar",
+            "request": "launch",
+            "mainClass": "printStar",
+            "projectName": "JAVA_Alpgorithm_bc86c62"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Max3",
+            "request": "launch",
+            "mainClass": "Max3",
+            "projectName": "JAVA_Alpgorithm_bc86c62"
+        },
+        {
+            "type": "java",
+            "name": "condition",
+            "request": "launch",
+            "mainClass": "condition",
+            "projectName": "JAVA_Alpgorithm_bc86c62"
+        },
+        {
+            "type": "java",
+            "name": "median",
+            "request": "launch",
+            "mainClass": "median",
+            "projectName": "JAVA_Alpgorithm_bc86c62"
+        },
+        {
+            "type": "java",
+            "name": "method3Method",
+            "request": "launch",
+            "mainClass": "method3Method",
+            "projectName": "JAVA_Alpgorithm_bc86c62"
+        },
+        {
+            "type": "java",
+            "name": "method4Method",
+            "request": "launch",
+            "mainClass": "method4Method",
+            "projectName": "JAVA_Alpgorithm_bc86c62"
+        },
+        {
+            "type": "java",
+            "name": "while_condition",
+            "request": "launch",
+            "mainClass": "while_condition",
+            "projectName": "JAVA_Alpgorithm_bc86c62"
+        },
+        {
+            "type": "java",
+            "name": "sidestep",
+            "request": "launch",
+            "mainClass": "sidestep",
+            "projectName": "JAVA_Alpgorithm_bc86c62"
+        }
+    ]
+}
