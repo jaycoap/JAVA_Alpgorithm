@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "JAVA_Alpgorithm_bc86c62"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber2",
+            "request": "launch",
+            "mainClass": "PrimeNumber2",
+            "projectName": "JAVA_Alpgorithm_bc86c62"
+        },
+        {
+            "type": "java",
+            "name": "reverseArray",
+            "request": "launch",
+            "mainClass": "reverseArray",
+            "projectName": "JAVA_Alpgorithm_bc86c62"
+        },
+        {
+            "type": "java",
             "name": "printStar",
             "request": "launch",
             "mainClass": "printStar",
