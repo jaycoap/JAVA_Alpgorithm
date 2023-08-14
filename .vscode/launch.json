@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumber3",
+            "request": "launch",
+            "mainClass": "PrimeNumber3",
+            "projectName": "JAVA_Alpgorithm_bc86c62"
+        },
+        {
+            "type": "java",
             "name": "PrimeNumber",
             "request": "launch",
             "mainClass": "PrimeNumber",
